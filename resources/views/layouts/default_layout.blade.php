@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-        <!-- This is Uzair Khan Swati -->
+        <!-- This is Uzair Khan Swati 1 -->
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
         <!-- Owl Carousel CSS -->
