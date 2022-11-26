@@ -49,12 +49,12 @@
                                     <li>
                                         <a href="https://www.facebook.com/profile.php?id=100086356337419"><i class="icofont-facebook"></i></a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="#"><i class="icofont-twitter"></i></a>
-                                    </li>
-                                    <li>
+                                    </li> -->
+                                    <!-- <li>
                                         <a href="#"><i class="icofont-linkedin"></i></a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a href="#"><i class="icofont-instagram"></i></a>
                                     </li>
@@ -70,7 +70,7 @@
         <div class="navbar-area">
             <!-- Menu For Mobile Device -->
             <div class="mobile-nav">
-                <a href="index.html" class="logo">
+                <a href="#" class="logo">
                     <img src="{{asset('assets/img/gold_trust_logo.png')}}" class="main-logo" alt="logo">
                 </a>
             </div>
@@ -79,7 +79,7 @@
             <div class="main-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="#home">
+                        <a class="navbar-brand" href="#">
                             <img src="{{asset('assets/img/gold_trust_logo.png')}}" alt="logo">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -216,60 +216,138 @@
                 <div class="section-head text-center">
                     <h2>Cleaning <span>Canada</span></h2>
                 </div>
-                <div class="row">
-                    <div class="elementor-widget-container text-center">
-                        <ul class="elementor-icon-list-items elementor-inline-items">
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Southeast Edmonton</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Beaumont</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Downtown Edmonton</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Stony Plain</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Edmonton</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Sherwood Park</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                    <span class="elementor-icon-list-icon">
-                                        <i class="fa-solid fa-circle-check"></i> </span>
-                                    <span class="elementor-icon-list-text">Wetaskiwin</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                <span class="elementor-icon-list-icon">
-                                    <i class="fa-solid fa-circle-check"></i> </span>
-                                <span class="elementor-icon-list-text">Spruce Grove</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                <span class="elementor-icon-list-icon">
-                                    <i class="fa-solid fa-circle-check"></i> </span>
-                                <span class="elementor-icon-list-text">Camrose</span>
-                            </li>
-                            <li class="elementor-icon-list-item elementor-inline-item p-3">
-                                <span class="elementor-icon-list-icon">
-                                    <i class="fa-solid fa-circle-check"></i> </span>
-                                <span class="elementor-icon-list-text">Leduc</span>
-                            </li>
-                        </ul>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="price-card-area">
+                            <div class="price-head-text">
+                                <h2>Alberta</h2>
+                                <p class="color-white"><i class="icofont-phone"></i> : <a class="color-white" href="tel:+17802671890">+1 780-267-1890</a></p class=>
+                            </div>
+
+                            <div class="plan-features">
+                                <ul>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Southeast Edmonton</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Beaumont</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Downtown Edmonton</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Stony Plain</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Edmonton</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Sherwood Park</span>
+                                    </li>
+                                    <li>
+                                            <span class="elementor-icon-list-icon">
+                                                <i class="fa-solid fa-circle-check"></i> </span>
+                                            <span class="elementor-icon-list-text">Wetaskiwin</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Spruce Grove</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Camrose</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Leduc</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="price-card-area">
+                            <div class="price-head-text">
+                                <h2>British Columbia</h2>
+                                <p class="color-white"><i class="icofont-phone"></i> : <a class="color-white" href="tel:+14034730600">+1 403-473-0600</a></p class=>
+                            </div>
+
+                            <div class="plan-features">
+                                <ul>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">West Vancouver</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">North Vancouver</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Delta</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Coquitlam</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Richmond</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Surrey</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Point Roberts</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">White Rock</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Blaine</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Langley</span>
+                                    </li>
+                                    <li>
+                                        <span class="elementor-icon-list-icon">
+                                            <i class="fa-solid fa-circle-check"></i> </span>
+                                        <span class="elementor-icon-list-text">Maple Ridge</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -630,28 +708,28 @@
                             <div class="row">
                                 <div class="col-lg-5 col-md-3 col-6 offset-lg-1">
                                     <div class="counter-text">
-                                        <h2><span class="counter">1</span>K</h2>
+                                        <h2><span class="counter">500</h2>
                                         <p>Job Done</p>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-5 col-md-3 col-6">
                                     <div class="counter-text">
-                                        <h2><span class="counter">989</span></h2>
+                                        <h2><span class="counter">490</span></h2>
                                         <p>Happy Clients</p>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-5 col-md-3 col-6 offset-lg-1">
                                     <div class="counter-text">
-                                        <h2><span class="counter">45</span></h2>
+                                        <h2><span class="counter">10</span></h2>
                                         <p>Experts</p>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-5 col-md-3 col-6">
                                     <div class="counter-text">
-                                        <h2><span class="counter">12</span></h2>
+                                        <h2><span class="counter">3</span></h2>
                                         <p>Years of Experience</p>
                                     </div>
                                 </div>
@@ -836,15 +914,21 @@
                                 </li>
                                 <li>
                                     <i class="icofont-phone"></i>
-                                    <a href="tel:+880123456789">
+                                    <a href="tel:+17802671890">
                                         +1 780-267-1890
                                     </a>
                                 </li>
                                 <li>
-                                    <i class="icofont-ui-message"></i>
-                                    <a href="mailto:info@viscous.com">
-                                        Sun - Thu : 10:00AM - 06:00PM
+                                    <i class="icofont-phone"></i>
+                                    <a href="tel:+14034730600">
+                                        +1 403-473-0600
                                     </a>
+                                </li>
+                                <li>
+                                    <i class="icofont-ui-message"></i>
+                                    <!-- <a href=""> -->
+                                        Sun - Thu : 10:00AM - 06:00PM
+                                    <!-- </a> -->
                                 </li>
                             </ul>
                         </div>
@@ -860,12 +944,12 @@
                                     <li>
                                         <a href="https://www.facebook.com/profile.php?id=100086356337419"><i class="icofont-facebook"></i></a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="#"><i class="icofont-twitter"></i></a>
                                     </li>
                                     <li>
                                         <a href="#"><i class="icofont-linkedin"></i></a>
-                                    </li>             
+                                    </li>              -->
                                     <li>
                                         <a href="#"><i class="icofont-instagram"></i></a>
                                     </li>
@@ -874,7 +958,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright-text text-end">
-                                <p>&copy;2022 Viscous. All Rights Reserved By <a href="#" target="_blank">ABTechnologia</a></p>
+                                <p>&copy;2022 Viscous. All Rights Reserved By Gold Trust Cleaning Services</p>
                             </div>
                         </div>
                     </div>

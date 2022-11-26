@@ -1,6 +1,10 @@
 /* Color Variables */
 @media (max-width: 767px) {
   /* Custom CSS */
+
+  .service-section .price-card-area {
+    height: 460px;
+  }
   .ptb-100 {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -52,7 +56,7 @@
     top: 5px;
   }
   .mean-container .logo img {
-    width: 120px;
+    max-width: 100px;
   }
   .mean-container a.meanmenu-reveal span {
     background: #6096fd;

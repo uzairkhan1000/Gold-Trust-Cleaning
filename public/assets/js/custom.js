@@ -7,14 +7,14 @@
     });
 
     //Navbar Sticky
-    $(window).on('scroll',function() {
-        if ($(this).scrollTop()>120){  
-            $('.navbar-area').addClass("is-sticky");
-        }
-        else{
-            $('.navbar-area').removeClass("is-sticky");
-        }
-    });
+    // $(window).on('scroll',function() {
+    //     if ($(this).scrollTop()>120){  
+    //         $('.navbar-area').addClass("is-sticky");
+    //     }
+    //     else{
+    //         $('.navbar-area').removeClass("is-sticky");
+    //     }
+    // });
 
     //SEARCH JS
     $('.search-option button').on('click',function(){

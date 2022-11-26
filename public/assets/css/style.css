@@ -235,7 +235,7 @@ h3 {
 .section-head span {
   font-size: 18px;
   font-weight: 500;
-  color: #fb788e;
+  color: #FFD700;
   margin-bottom: 20px;
   display: inline-block;
 }
@@ -281,7 +281,7 @@ h3 {
 .header-section {
   background: #031888;
   padding: 10px 0;
-  margin-top: 100px;
+  margin-top: 90px;
 }
 
 .header-section .header-widget ul {
@@ -371,7 +371,6 @@ h3 {
 .navbar-area .main-nav {
   background: #ffffff;
   padding: 0;
-  position: fixed;
   -webkit-transition: .5s;
   transition: .5s;
 }
@@ -1197,6 +1196,15 @@ h3 {
   transition: .6s;
   margin-bottom: 30px;
 }
+.service-section .price-card-area {
+  height: 550px;
+  text-align: center;
+  border: 1px solid #c3ccff;
+  border-radius: 5px;
+  -webkit-transition: .6s;
+  transition: .6s;
+  margin-bottom: 30px;
+}
 
 .price-card-area:hover .price-head-text::before {
   opacity: 1;
@@ -1364,7 +1372,7 @@ h3 {
 }
 
 .counter-section .offer-text h2 span {
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .counter-section .offer-text .theme-button .default-btn {
@@ -1410,7 +1418,7 @@ h3 {
 .counter-section .counter-area .counter-text h2 {
   font-size: 40px;
   font-weight: 600;
-  color: #fb788e;
+  color: #FFD700;
   margin-bottom: 0;
 }
 
@@ -2884,7 +2892,7 @@ h3 {
 }
 
 .hire-section .discount-text h2 span {
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .hire-section .discount-text .theme-button .default-btn {
@@ -2961,7 +2969,7 @@ h3 {
 }
 
 .counter-style-two h2 span {
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .counter-style-two .counter-text {
@@ -2972,7 +2980,7 @@ h3 {
 .counter-style-two .counter-text h2 {
   font-size: 40px;
   font-weight: 600;
-  color: #fb788e;
+  color: #FFD700;
   margin-bottom: 10px;
 }
 
@@ -3520,7 +3528,7 @@ h3 {
 }
 
 .home-text-three h1 span {
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .home-text-three p {
@@ -5107,7 +5115,7 @@ h3 {
 }
 
 .main-service-area .service-sidebar .discount-text h1 span {
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .main-service-area .service-sidebar .discount-text .theme-button .default-btn {
@@ -5529,7 +5537,7 @@ h3 {
 
 .service-details-area .service-details-post h3 span {
   font-weight: 700;
-  color: #fb788e;
+  color: #FFD700;
 }
 
 .service-details-area .service-details-post p {
