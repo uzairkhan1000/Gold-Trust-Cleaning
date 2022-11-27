@@ -877,6 +877,16 @@ h3 {
   background: #ffffff;
 }
 
+
+/* Areas-Section */
+
+.areas-section p a {
+  color: white;
+}
+/* Areas-Section End */
+
+
+
 /* Experties Section */
 
 .experties-section .team-card {

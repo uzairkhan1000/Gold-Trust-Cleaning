@@ -211,7 +211,7 @@
         <!-- Service Section End -->
 
         <!-- Areas Section -->
-        <section class="service-section pt-100 pb-100 mt-100 mb-100">
+        <section class="service-section areas-section pt-100 pb-100 mt-100 mb-100">
             <div class="container">
                 <div class="section-head text-center">
                     <h2>Cleaning <span>Canada</span></h2>
@@ -221,7 +221,7 @@
                         <div class="price-card-area">
                             <div class="price-head-text">
                                 <h2>Alberta</h2>
-                                <p class="color-white"><i class="icofont-phone"></i> : <a class="color-white" href="tel:+17802671890">+1 780-267-1890</a></p class=>
+                                <p class="color-white"><i class="icofont-phone"></i> : <a href="tel:+17802671890">+1 780-267-1890</a></p class=>
                             </div>
 
                             <div class="plan-features">
@@ -285,7 +285,7 @@
                         <div class="price-card-area">
                             <div class="price-head-text">
                                 <h2>British Columbia</h2>
-                                <p class="color-white"><i class="icofont-phone"></i> : <a class="color-white" href="tel:+14034730600">+1 403-473-0600</a></p class=>
+                                <p class="color-white"><i class="icofont-phone"></i> : <a href="tel:+14034730600">+1 403-473-0600</a></p class=>
                             </div>
 
                             <div class="plan-features">
