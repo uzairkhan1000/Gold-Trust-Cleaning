@@ -958,7 +958,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright-text text-end">
-                                <p>&copy;2022 Viscous. All Rights Reserved By Gold Trust Cleaning Services</p>
+                                <p>&copy;All Rights Reserved By Gold Trust Cleaning Services</p>
                             </div>
                         </div>
                     </div>
